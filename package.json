@@ -1,0 +1,22 @@
+{
+  "name": "manga-organizer",
+  "version": "1.0.0",
+  "description": "Organize manga files for Kavita",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "manga",
+    "kavita"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
+    "tunnel": "^0.0.6"
+  }
+}
